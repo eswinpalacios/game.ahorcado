@@ -11,4 +11,6 @@ js
 
 ## demo
 
-link: https://fastidious-praline-1ebad9.netlify.app/
+links:
+https://fastidious-praline-1ebad9.netlify.app/
+https://game-ahorcado.vercel.app/
